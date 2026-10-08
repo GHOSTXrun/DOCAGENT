@@ -4,6 +4,8 @@
 
 **Code changes. Keep your docs in sync.**
 
+[Website](https://ghostxrun.github.io/DOCAGENT/) · [Official X / @DOCAGENTLabs](https://x.com/DOCAGENTLabs)
+
 DOCAGENT is a documentation-maintenance frontend for open-source maintainers. It combines a working public GitHub commit inspector with a clearly labeled demonstration of a future AI repair workflow.
 
 ## 当前可以使用的功能
